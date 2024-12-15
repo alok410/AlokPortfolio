@@ -73,7 +73,7 @@ const About = () => {
                   H<span>ello,</span>
                 </h2>
                 <p>
-                  I am <span>Your Name Here.</span> <br /> Highly passoinate
+                  I am <span>Your Alok Patel.</span> <br /> Highly passoinate
                   front-end Developer with more than 1.5 years of experience.
                 </p>
               </Link>
@@ -93,10 +93,9 @@ const About = () => {
                   E<span>xperience</span>
                 </h2>
                 <p>
-                  <span>6 month of experience.</span>
-                  <br />I have more than 1.5 years of experience in developing
-                  highly responsive frontend of websites using React.js and
-                  Vue.js
+                  <span>atQor(formally bitscape) pvt ltd - 1+ year of experience.</span>
+                  <br />
+                  I have 1+ year of experience at atQor (formerly Bitscape) Pvt. Ltd.  in frontend development, specializing in building highly responsive websites.Expertise includes working with technologies like .NET, React.js, and ExpressJS, showcasing my ability to create modern, dynamic, and user-friendly web applications.
                 </p>
               </Link>
             </div>
@@ -119,14 +118,9 @@ const About = () => {
                 </p>
                 <ul>
                   <li>
-                    <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
+                    <span>Brainy Beam</span> -Software Engineer{" "}
                   </li>
-                  <li>
-                    <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
-                  </li>
-                  <li>
-                    <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
-                  </li>
+                 
                 </ul>
               </Link>
             </div>
@@ -145,9 +139,9 @@ const About = () => {
                   E<span>ngineering</span>
                 </h2>
                 <p>
-                  <span>College Name </span>
+                  <span>Gujarat power Engineering and Research Institute </span>
                   <br />
-                  Description.... Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam vitae aliquid dolorum qui reiciendis mollitia, itaque dolores eaque ullam quo soluta libero! Natus.
+                  I have a Bachelor's degree in Computer Science from Gujarat Technological University, Ahmedabad, which I completed in June 2023. This solid foundation in computer science has equipped you with the knowledge and skills to excel in software development and modern web technologies.
                 </p>
               </Link>
             </div>

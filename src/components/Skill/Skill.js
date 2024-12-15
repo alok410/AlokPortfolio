@@ -20,11 +20,9 @@ const Skill = () => {
         'JavaScript',
         'React',
         'ExperessJS',
-        'Nuxt',
         'NodeJS',
         'Shopify',
         'Jquery',
-        'ES6',
         'GIT',
         'GITHUB',
       ];
@@ -111,12 +109,13 @@ const Skill = () => {
                     </li>
                     <li>
                       <span>
-                        <b>Preprocessors:</b> PUG, SASS
+                        Tailwind CSS
                       </span>
                     </li>
+                   
                     <li>
                       <span>
-                        <b>Modular:</b> BEM
+                        Bootstrap
                       </span>
                     </li>
                   </ul>
@@ -127,7 +126,7 @@ const Skill = () => {
                     <li>
                       <span>
                         <b>Frameworks & Libraries:</b> &nbsp; React JS, React
-                        Native, Vue.js, Nuxt
+                        Native, DotNet
                       </span>
                     </li>
                     <li>
@@ -139,9 +138,7 @@ const Skill = () => {
                     <li>
                       <span>jQuery</span>
                     </li>
-                    <li>
-                      <span>Typescript</span>
-                    </li>
+                
                   </ul>
                 </div>
                 <div className="skill__details">
@@ -157,6 +154,9 @@ const Skill = () => {
                   <ul>
                     <li>
                       <span>Shopify</span>
+                    </li>
+                    <li>
+                      <span>Wordpress</span>
                     </li>
                   </ul>
                 </div>

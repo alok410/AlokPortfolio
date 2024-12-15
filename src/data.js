@@ -4,42 +4,35 @@ export const config = {
     projectCard: {
       cards: [
         {
-          heading: 'Project Name Here',
+          heading: 'Portfolio Website(React JS)',
           description:
-            'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
+            'I have created a dynamic portfolio website with interactive content and engaging animations using React.js. The website enhances my products with advanced UI/UX features, providing flawless functionality and a great customer experience.',
           animationDelay: '300',
-          buttonLink: 'https://codemmit.tech/',
+          buttonLink: 'https://myportfolio410.netlify.app/',
           buttonText: 'CHECK OUT',
         },
         {
-          heading: 'Project Name Here',
+          heading: 'Recipe Book Website(ReactJS + Django)',
           description:
-            'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
+            'Building a full-stack Recipe Book website using ReactJS for the frontend and Django for the backend to manage and display recipes.',
           animationDelay: '500',
-          buttonLink: 'https://codemmit.tech',
+          buttonLink: 'https://github.com/alok410/AlokRecipeWeb',
           buttonText: 'CHECK OUT',
         },
         {
-          heading: 'Project Name Here',
-          description: 'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
+          heading: 'Leave Request System(ReactJS + ExpressJS + SQL)',
+          description: 'I created a Leave Request System using ReactJS for the frontend, ExpressJS for the backend, and SQL for database management. The system streamlines leave requests with a user-friendly interface and robust backend processing.',
           animationDelay: '700',
           buttonLink: 'https://codemmit.tech',
           buttonText: 'CHECK OUT',
         },
         {
-          heading: 'Project Name Here',
-          description:
-            'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
-          animationDelay: '900',
-          buttonLink: 'https://codemmit.tech',
+          heading: 'Job Portal(ReactJS + NodeJS + ExpressJS + MonngoDB)',
+          description: 'I developed a job portal using ReactJS for the frontend, ExpressJS for the backend, and MongoDB for database management. This job-finding app provides a seamless platform for users to search and apply for jobs, featuring an intuitive interface and efficient backend processing.',
+          animationDelay: '700',
+          buttonLink: 'https://github.com/alok410/jobhunt',
           buttonText: 'CHECK OUT',
-        },
-        {
-          heading: 'Under Construction',
-          description: '</>',
-          animationDelay: '1100',
-          buttonText: '',
-        },
+        }
       ],
     },
     internships: {
