@@ -5,7 +5,7 @@ import { faLocationDot, faPhone, faEnvelope, faSquareCheck } from '@fortawesome/
 import {
     faLinkedin,
     faGithub,
-    faYoutube,
+
 } from '@fortawesome/free-brands-svg-icons';
 
 import '../../styles/Contact/Contact.scss';
